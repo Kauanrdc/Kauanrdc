@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Meu nome é Kauan Ramos
+Estou estudando no Alunra
 <!--
 **Kauanrdc/Kauanrdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
